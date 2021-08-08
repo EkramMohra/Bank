@@ -1,0 +1,13 @@
+
+.form-group{
+    
+    border: 3px solid rgb(212, 181, 123);
+    background-color: rgb(238, 236, 231);
+    margin: 15px;
+    width: 50%;
+   
+}
+.btn{
+    margin: 10px; 
+   
+}

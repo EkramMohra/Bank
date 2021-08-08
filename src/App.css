@@ -1,0 +1,18 @@
+* {
+    text-decoration: none;
+    font-family: 'ui-sans-serif';
+}
+
+.Negative {
+    color: red;
+}
+
+.positive {
+    color: green;
+}
+
+.Balance {
+    text-align: center;
+    margin-top: 5px;
+    text-decoration-line: underline;
+}

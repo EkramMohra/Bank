@@ -1,0 +1,46 @@
+{
+  "name": "react-routes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.1",
+    "axios": "^0.21.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "fontawesome": "^5.6.3",
+    "jest-cli": "^23.4.2",
+    "jest-json-reporter": "^1.2.2",
+    "path": "^0.12.7",
+    "react": "^16.4.1",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^16.4.1",
+    "react-icons": "^4.2.0",
+    "react-native-paper": "^4.9.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "babel-plugin-emotion": "^10.0.9",
+    "babel-plugin-react-html-attrs": "^2.1.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^23.4.2",
+    "jest-emotion": "^10.0.10",
+    "jest-test-runner": "git+https://github.com/Elevationacademy/jest-test-runner.git",
+    "jest-expect-message": "github:Elevationacademy/jest-expect-message",
+    "jest-transform-stub": "^1.0.0",
+    "react-test-renderer": "^16.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "test-silent": "jest || exit 0",
+    "eject": "react-scripts eject",
+    "tests": "tests"
+  }
+}

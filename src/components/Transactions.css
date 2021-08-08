@@ -1,0 +1,10 @@
+.all-transactions {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 1vw;
+}
+
+.form-control {
+  width: 40% !important;
+
+}
